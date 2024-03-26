@@ -1,4 +1,4 @@
-// Kanad Patel
+// Nishant Patel
 // The code is for second Arduino that controls the servo hand of I-See.
 // Its also has a potentiometer that control the speed of I-See.
 
