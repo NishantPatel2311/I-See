@@ -1,4 +1,4 @@
-// Kanad Patel
+// Nishant Patel
 // Arduino ultra sonic sensor code
 // I have used the code from various online resources 
 // And have amalgamated various function for our use case.
